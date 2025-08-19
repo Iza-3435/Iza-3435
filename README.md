@@ -1,5 +1,5 @@
 # About Me:
-Machine Learning Engineer<br>I build ML systems, explore applied math for AI, and work on scalable architectures for real-world deployment<br>Currently learning: Transformers, Reinforcement Learning, and Advanced Math for ML<br>Building: High-frequency trading simulator, portfolio optimization models.<br>
+Machine Learning Engineer<br>I build ML systems, and work on scalable architectures for real-world deployment<br>Currently learning: Transformers, Reinforcement Learning, and Advanced Math for ML<br>Building: High-frequency trading simulator, portfolio optimization models.<br>
 
 
 ## Socials:
