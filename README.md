@@ -1,17 +1,21 @@
-# Hi, I'm Sai 👋
+# Sai Shinde
 
-**Machine Learning Engineer** specializing in reinforcement learning and quantitative finance.
+Machine Learning Engineer building RL systems for quantitative finance.
 
-## 🔥 Recent Work
-- **RL-Based HFT System**: 65-80% latency prediction accuracy using multi-agent DQN/PPO
-- **QuantEdge Platform**: Real-time market intelligence processing 1M+ data points with 85% accuracy
+Currently working on high-frequency trading infrastructure and real-time market analysis tools.
 
-## 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+## What I work with
 
-## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saishxnde) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saishxnde@gmail.com)
+**ML/AI:** PyTorch, TensorFlow, Reinforcement Learning (DQN/PPO), Transformers  
+**Languages:** Python, C++  
+**Tools:** Docker, NumPy, Pandas, scikit-learn
+
+## Recent projects
+
+- Multi-agent RL system for order routing across exchanges
+- Market intelligence platform with sentiment analysis and pattern recognition
+- Backtesting engine with Monte Carlo simulations
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/saishxnde) • [Email](mailto:saishxnde@gmail.com)
