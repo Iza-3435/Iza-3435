@@ -1,9 +1,31 @@
-# About Me:
-Machine Learning Engineer<br>I build ML systems, and work on scalable architectures for real-world deployment<br>Currently learning: Transformers, Reinforcement Learning, and Advanced Math for ML<br>Building: High-frequency trading simulator, portfolio optimization models.<br>
+# 👋 Hi, I'm Sai
 
+## Machine Learning Engineer
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saishxnde) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saishxnde@gmail.com) 
+I build production-ready ML systems and work on scalable architectures for real-world deployment. Passionate about transforming complex algorithms into practical solutions.
 
-# Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+### 🔭 Currently Working On
+- High-frequency trading simulator with real-time data processing
+- Portfolio optimization models using advanced ML techniques
+
+### 🌱 Currently Learning
+- Transformer architectures and attention mechanisms
+- Reinforcement Learning algorithms
+- Advanced Mathematics for ML (Optimization, Information Theory)
+
+### 💼 Core Expertise
+- **Machine Learning**: Deep Learning, Model Optimization, Production ML
+- **Languages**: Python, C++
+- **Frameworks**: PyTorch, TensorFlow, scikit-learn
+- **Tools**: Docker, NumPy, Pandas
+
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saishxnde) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saishxnde@gmail.com)
+
+### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false)
+
+---
+💡 *"Building intelligent systems that solve real problems"*
